@@ -22,7 +22,7 @@ Aplikasi desktop untuk merapikan hasil OCR tulisan tangan menggunakan Google Vis
    ```
 
 2. **Buat dan isi file .env**
-   - Salin `.env.example` menjadi `.env`
+   - Salin `env.example` menjadi `.env`
    - Isi `GEMINI_API_KEY` dengan API key Gemini Anda
    - Isi `GOOGLE_APPLICATION_CREDENTIALS_JSON` dengan isi file credential Google Vision (format JSON, dijadikan satu baris)
 
