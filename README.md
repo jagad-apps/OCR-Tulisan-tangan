@@ -68,7 +68,7 @@ Aplikasi desktop untuk merapikan hasil OCR tulisan tangan menggunakan Google Vis
 
 ---
 
-**Dibuat oleh: [Alfriyan - TIM IT SMK N 1 Pracimantoro]**
+**Dibuat oleh: [TIM IT SMK N 1 Pracimantoro]**
 
 Disclaimer:
 
